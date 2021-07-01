@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+/* Id name map */
+#map {
+  height: 100%;
+}
+
+/* HTML and body tag */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
